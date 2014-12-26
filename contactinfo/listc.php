@@ -29,6 +29,7 @@ $result = mysqli_query($link,$query);
         <td>Emergency Contact:</td>>
         <td>Email:</td>>
         <td>Alternate Email:</td>>
+        <td>Alternate Email:</td>>
         <td>Present Address:</td>>
         <td>Permanent Address:</td>>
 
