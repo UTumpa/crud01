@@ -41,6 +41,8 @@ $result = mysqli_query($link,$query);
         <td><?php echo $row['date_birth' ] ?></td>
         <td><?php echo $row['nationality'] ?></td>
         <td><?php echo $row['national_id'] ?></td>
+        <td> <a href="#">Edit</a> | <a href="delete.php?id=<?php echo $row['id']?>">Delete</a> | <a href="viewdelete.php?id=<?php echo $row['id']?>">View Delete</a></td>
+    </tr>
         <?php
         }
         ?>
