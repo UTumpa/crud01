@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<h1>Contact Information</h1>
+<form action="addc.php" method="post">
+    <div>
+        <label>Mobile: </label>
+        <input  type="text" name="mobile" />
+    </div>
+
+    <div>
+        <label>Home Phone: </label>
+        <input  type="text" name="home_p" />
+    </div>
+
+    <div>
+        <label>Emergency Contact: </label>
+        <input type="text" name="e_contact" />
+    </div>
+
+    <div>
+        <label>Email: </label>
+        <input type="text" name="email" />
+    </div>
+
+    <div>
+        <label>Alternate Email: </label>
+        <input type="text" name="a_email" />
+    </div>
+    <div>
+        <label>Current Location: </label>
+        <select name="current_l">
+            <option value="1" selected="selected">Dhaka</option>
+            <option value="2">Chittagong</option>
+            <option value="3">Khulna</option>
+            <option value="4">Barishal</option>
+            <option value="5">Barguna</option>
+            <option value="6">Barisal</option>
+            <option value="7">Bhola</option>
+            <option value="8">Jhalokat</option>
+            <option value="9">Patuakhali</option>
+            <option value="10">Pirojpur</option>
+            <option value="11">Bandarban</option>
+        </select>
+    </div>
+
+    <div>
+
+        <label>Present Address: </label>
+        <textarea name="pre_address"></textarea>
+    </div>
+
+    <div>
+        <label>Permanent Address: </label>
+        <textarea name="perm_address"></textarea>
+    </div>
+<br />
+    <br />
+    <button type="submit">Submit</button>
+
+</body>
+</html>
