@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffa7b8c8-55fb-49b6-8b05-7d323ff3b2ec" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personalinfo/delete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personalinfo/view.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/personalinfo/list.php" afterPath="$PROJECT_DIR$/personalinfo/list.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -59,14 +59,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="list.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/personalinfo/list.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6974359" vertical-offset="463" max-vertical-offset="855">
-              <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+            <state vertical-scroll-proportion="-7.5" vertical-offset="465" max-vertical-offset="855">
+              <caret line="43" column="147" selection-start-line="43" selection-start-column="147" selection-end-line="43" selection-end-column="147" />
               <folding>
-                <marker date="1419573388603" expanded="true" signature="81:95" placeholder="select * fro..crud01..." />
-                <marker date="1419573388603" expanded="true" signature="81:103" placeholder="select * fro..students..." />
+                <marker date="1419573912743" expanded="true" signature="81:95" placeholder="select * fro..crud01..." />
+                <marker date="1419573912743" expanded="true" signature="81:103" placeholder="select * fro..students..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/personalinfo/view.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.66997516" vertical-offset="0" max-vertical-offset="403">
+              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+              <folding>
+                <marker date="1419573811499" expanded="true" signature="116:150" placeholder="select * fro..students..." />
               </folding>
             </state>
           </provider>
@@ -115,6 +127,7 @@
         <option value="$PROJECT_DIR$/personalinfo/createp.html" />
         <option value="$PROJECT_DIR$/personalinfo/add1.php" />
         <option value="$PROJECT_DIR$/personalinfo/delete.php" />
+        <option value="$PROJECT_DIR$/personalinfo/view.php" />
         <option value="$PROJECT_DIR$/personalinfo/list.php" />
       </list>
     </option>
@@ -310,8 +323,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1419573388603" expanded="true" signature="81:95" placeholder="select * fro..crud01..." />
-            <marker date="1419573388603" expanded="true" signature="81:103" placeholder="select * fro..students..." />
+            <marker date="1419573912743" expanded="true" signature="81:95" placeholder="select * fro..crud01..." />
+            <marker date="1419573912743" expanded="true" signature="81:103" placeholder="select * fro..students..." />
           </folding>
         </state>
       </provider>
@@ -355,8 +368,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1419573388603" expanded="true" signature="81:95" placeholder="select * fro..crud01..." />
-            <marker date="1419573388603" expanded="true" signature="81:103" placeholder="select * fro..students..." />
+            <marker date="1419573912743" expanded="true" signature="81:95" placeholder="select * fro..crud01..." />
+            <marker date="1419573912743" expanded="true" signature="81:103" placeholder="select * fro..students..." />
           </folding>
         </state>
       </provider>
@@ -545,11 +558,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/personalinfo/list.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6974359" vertical-offset="463" max-vertical-offset="855">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        <state vertical-scroll-proportion="-7.5" vertical-offset="465" max-vertical-offset="855">
+          <caret line="43" column="147" selection-start-line="43" selection-start-column="147" selection-end-line="43" selection-end-column="147" />
           <folding>
-            <marker date="1419573388603" expanded="true" signature="81:95" placeholder="select * fro..crud01..." />
-            <marker date="1419573388603" expanded="true" signature="81:103" placeholder="select * fro..students..." />
+            <marker date="1419573912743" expanded="true" signature="81:95" placeholder="select * fro..crud01..." />
+            <marker date="1419573912743" expanded="true" signature="81:103" placeholder="select * fro..students..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personalinfo/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.66997516" vertical-offset="0" max-vertical-offset="403">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding>
+            <marker date="1419573811499" expanded="true" signature="116:150" placeholder="select * fro..students..." />
           </folding>
         </state>
       </provider>
